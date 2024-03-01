@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductDatabaseAPI", "ProductDatabaseAPI.csproj", "{FAA3EBF1-B054-44CD-A4DA-D3C9B1D4155D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductDatabaseAPI.Test", "..\ProductDatabaseAPI.Test\ProductDatabaseAPI.Test.csproj", "{F95FC9CC-A08B-4F1A-BA10-EB5C6D6A2FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA3EBF1-B054-44CD-A4DA-D3C9B1D4155D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA3EBF1-B054-44CD-A4DA-D3C9B1D4155D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA3EBF1-B054-44CD-A4DA-D3C9B1D4155D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA3EBF1-B054-44CD-A4DA-D3C9B1D4155D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95FC9CC-A08B-4F1A-BA10-EB5C6D6A2FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95FC9CC-A08B-4F1A-BA10-EB5C6D6A2FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95FC9CC-A08B-4F1A-BA10-EB5C6D6A2FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95FC9CC-A08B-4F1A-BA10-EB5C6D6A2FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81265080-0654-4D1D-A329-E67747471D34}
+	EndGlobalSection
+EndGlobal
